@@ -2,7 +2,7 @@
 ### About Me
 
 <p>
-<a href="https://toywar94.github.io/" target="_blank"><img src="https://img.shields.io/badge/About Me-0A66C2?style=flat-square"/></a>
+<a href="http://toywar94.com/index" target="_blank"><img src="https://img.shields.io/badge/About Me-0A66C2?style=flat-square"/></a>
 <a href="https://blog.naver.com/toywar94" target="_blank"><img src="https://img.shields.io/badge/MyBlog-1DA1F2?style=flat-square"/></a>
 </p>
 
